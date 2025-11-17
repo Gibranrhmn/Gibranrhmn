@@ -45,28 +45,24 @@
 ## Framework
 <p>
 
-<img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="35" />
-
-<img src="https://img.shields.io/badge/Codeigniter-282C34?logo=Codeigniter&logoColor=FF2D20" alt="Codeigniter logo" title="Codeigniter" height="35" />
-
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=43853D" alt="Node.js logo" title="Node.js" height="35" />
-
-<img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DAFB" alt="React logo" title="React" height="35" />
-
-<img src="https://img.shields.io/badge/Jquery-282C34?logo=Jquery&logoColor=0769AD" alt="Jquery logo" title="Jquery" height="35" />
-
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="35" />
+
+<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="35" />
 
 </p>
 
 ## Development Tools
 <p>
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visualstudiocode&logoColor=007ACC" height="35" />
 
 <img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F34E68" alt="Git logo" title="Git" height="35" />
 
-<img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="35" />
+<img src="https://img.shields.io/badge/Android%20Studio-282C34?logo=androidstudio&logoColor=3DDC84" height="35" />
 
-<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="35" />
+<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" height="35" />
+
+<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" height="35" />
+
 
 </p>
 
