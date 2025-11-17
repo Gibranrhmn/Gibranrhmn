@@ -7,11 +7,6 @@
   <a href="https://www.linkedin.com/in/ganeshagibran/">
     <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/social/linkedin.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
-  <a href="mailto:gibranworkspace@gmail.com">
-    <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/social/gmail.svg" 
-         alt="gmail" 
-         style="vertical-align:top; margin:4px">
-  </a>
 </p>
 
 # About Me
@@ -69,19 +64,9 @@
 
 <img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F34E68" alt="Git logo" title="Git" height="35" />
 
-<img src="https://img.shields.io/badge/Github-282C34?logo=Github&logoColor=white" alt="Github logo" title="Github" height="35" />
+<img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="35" />
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-282C34?logo=visual%20studio%20code&logoColor=0078D4" alt="Visual_Studio_Code logo" title="Visual_Studio_Code" height="35" />
-
-<img src="https://img.shields.io/badge/Colab-282C34?logo=googlecolab&logoColor=F9AB00" alt="Colab logo" title="Colab" height="35" />
-
-<img src="https://img.shields.io/badge/Kaggle-282C34?logo=kaggle&logoColor=white" alt="Colab logo" title="Colab" height="35" />
-
-<img src="https://img.shields.io/badge/Android_Studio-282C34?logo=android-studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="35" />
-
-<img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="35" />
-
-<img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=F24E1E" alt="Postman logo" title="Postman" height="35" />
+<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="35" />
 
 </p>
 
@@ -89,9 +74,6 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/mac%20os-282C34?logo=apple&logoColor=white" alt="mac%20os logo" title="mac%20os" height="35" />
-
 <img src="https://img.shields.io/badge/Windows-282C34?logo=Windows&logoColor=0078D6" alt="Windows logo" title="Windows" height="35" />
-
 
 </p>
